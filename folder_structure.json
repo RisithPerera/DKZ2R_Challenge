@@ -1,0 +1,19 @@
+{
+  "folders": [
+    {
+      "name": "Images",
+      "convention": "YYYY_MM_DD_SEGMENT_VER.extention",
+      "summary" : true
+    },
+    {
+      "name": "User Manuals",
+      "convention": "YYYY_MM_DD_SEGMENT_VER.extention",
+      "summary" : true
+    },
+    {
+      "name": "Data",
+      "convention": "YYYY_MM_DD_SEGMENT_VER.extention",
+      "summary" : false
+    }
+  ]
+}
